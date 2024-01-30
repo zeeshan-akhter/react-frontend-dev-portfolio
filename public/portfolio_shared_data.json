@@ -1,0 +1,88 @@
+{
+    "basic_info": {
+      "name": "Zeeshan Akhter",
+      "titles": [ "Front-end Developer", "Full-stack Developer", "React JS Developer", "Web App Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/zeeshan-akhter",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/zeeshan-akhter-4b1766216/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "gmail",
+          "url": "mailto:zk7004@gmail.com",
+          "class": "fab fa-google"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "80"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Express JS",
+          "class": "devicon-express-original",
+          "level": "75"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "85"
+        },
+        {
+          "name": "Node JS",
+          "class": "devicon-nodejs-plain",
+          "level": "65"
+        },
+        {
+          "name": "Redux",
+          "class": "devicon-redux-plain",
+          "level": "60"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "60"
+        },
+        {
+          "name": "Github",
+          "class": "devicon-github-plain",
+          "level": "60"
+        },
+        {
+          "name": "Jest Testing",
+          "class": "devicon-jest-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }

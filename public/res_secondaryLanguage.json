@@ -1,0 +1,152 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Zeeshan Akhter. I'm a front-end engineer with great experience in building modern web applications. I'm passionate about HTML5, CSS3, and JavaScript as well as React JS and its ecosystem. I love delivering fast-loading, clean, and high-performance web experiences. I'm a strong believer in good UX and frontend performance optimization and ship reliable software which can be maintained easily and efficiently.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "BUZZ FITNESS",
+      "startDate": "2023",
+      "description": "The Buzz Fitness is a web application designed to help users track their fitness goals, including exercise routines, food intake, and fitness goals. It provides a dashboard with summarized data, allows users to add and remove exercises, record their food consumption, and set fitness goals",
+      "images": [
+        "images/portfolio/buzz-fitness/p1.png",
+        "images/portfolio/buzz-fitness/p2.png",
+        "images/portfolio/buzz-fitness/p3.png",
+        "images/portfolio/buzz-fitness/p4.png"
+      ],
+      "url": "https://github.com/zeeshan-akhter/buzz-fitness-app",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        },
+        {
+          "class": "devicon-express-original",
+          "name": "ExpressJS"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "NodeJS"
+        }
+      ]
+    },
+    {
+      "title": "SCHOOL MANAGEMENT ",
+      "startDate": "2023",
+      "description": "Developed and implemented a robust School Management Application, streamlining student and teacher information management processes for a school, leading to a 40% reduction in administrative tasks and saving 15 hours per week. The application provides tools for users to efficiently manage 2 sections like student and teacher records. Users can view class-specific data. Developed and deployed a user-friendly dashboard that granted instant access to school-wide statistics, fostering data-driven decision-making and driving a 25% increase in overall student performance.",
+      "images": [
+        "images/portfolio/school-management/p1.png",
+        "images/portfolio/school-management/p2.png",
+        "images/portfolio/school-management/p3.png",
+        "images/portfolio/school-management/p4.png"
+      ],
+      "url": "https://github.com/zeeshan-akhter/school-management-app",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        },
+        {
+          "class": "devicon-express-original",
+          "name": "ExpressJS"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "NodeJS"
+        }
+      ]
+    },
+    {
+      "title": "Volunteer Management",
+      "startDate": "2023",
+      "description": "he Volunteer Management Application is designed to simplify the process of recruiting, tracking, and engaging volunteers for various events and initiatives. It provides tools for organizers to efficiently manage volunteer records, create events, and access event and volunteer statistics.",
+      "images": [
+        "images/portfolio/volunteer-management/p1.png",
+        "images/portfolio/volunteer-management/p2.png"
+      ],
+      "url": "https://github.com/zeeshan-akhter/volunteer-management-app-re",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        },
+        {
+          "class": "devicon-express-original",
+          "name": "ExpressJS"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "NodeJS"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "neoG Camp",
+      "title": "Full-stack Developer Trainee",
+      "years": "02/2023 - present",
+      "mainTech": ["MERN stack"],
+      "technologies": [
+        "HTML 5",
+        "CSS 3",
+        "JavaScript",
+        "TypeScript",
+        "React JS",
+        "Express JS",
+        "MongoDB",
+        "Node JS",
+        "Postman",
+        "Redux",
+        "Git",
+        "Github",
+        "Jest Testing"
+      ]
+    },
+    {
+      "company": "VN Tech Solution",
+      "title": "React Developer Intern",
+      "years": "10/2022 - 11/2022",
+      "mainTech": ["React JS"],
+      "technologies": [
+        "HTML",
+        "CSS",
+        "React JS",
+        "JavaScript",
+        "Firebase",
+        "Cloud Firestore",
+        "Git"
+      ]
+    }
+  ]
+}
