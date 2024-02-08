@@ -11,6 +11,41 @@
   },
   "projects": [
     {
+      "title": "BUZZ FASHION (E-commerce)",
+      "startDate": "2024",
+      "description": " BUZZ FASHION is an innovative and feature-rich ecommerce application with a focus on providing users with a seamless shopping experience. The successful integration of key features and metrics highlights the application's commitment to user satisfaction. The list of features in the application are:- Home Page, Product Listing Page, Single Product Page, Filters by, Price, Category, Ratings, Wishlist Management, Cart Management, Search, Loading & Alerts, Authentication, Sign-up, Login, Logout, Address Management, Checkout, Razorpay payment gateway.",
+      "images": [
+        "images/portfolio/buzz-fashion/p1.png",
+        "images/portfolio/buzz-fashion/p2.png",
+        "images/portfolio/buzz-fashion/p3.png",
+        "images/portfolio/buzz-fashion/p4.png",
+        "images/portfolio/buzz-fashion/p5.png",
+        "images/portfolio/buzz-fashion/p6.png",
+        "images/portfolio/buzz-fashion/p7.png",
+        "images/portfolio/buzz-fashion/p8.png",
+        "images/portfolio/buzz-fashion/p9.png",
+        "images/portfolio/buzz-fashion/p10.png",
+        "images/portfolio/buzz-fashion/p11.png",
+        "images/portfolio/buzz-fashion/p12.png",
+        "images/portfolio/buzz-fashion/p13.png"
+      ],
+      "url": "https://github.com/zeeshan-akhter/buzz-fashion",
+      "technologies": [
+        {
+          "class": "fab fa-react",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "NodeJS"
+        }
+      ]
+    },
+    {
       "title": "BUZZ FITNESS",
       "startDate": "2023",
       "description": "The Buzz Fitness is a web application designed to help users track their fitness goals, including exercise routines, food intake, and fitness goals. It provides a dashboard with summarized data, allows users to add and remove exercises, record their food consumption, and set fitness goals",
@@ -81,7 +116,7 @@
     {
       "title": "Volunteer Management",
       "startDate": "2023",
-      "description": "he Volunteer Management Application is designed to simplify the process of recruiting, tracking, and engaging volunteers for various events and initiatives. It provides tools for organizers to efficiently manage volunteer records, create events, and access event and volunteer statistics.",
+      "description": "The Volunteer Management Application is designed to simplify the process of recruiting, tracking, and engaging volunteers for various events and initiatives. It provides tools for organizers to efficiently manage volunteer records, create events, and access event and volunteer statistics.",
       "images": [
         "images/portfolio/volunteer-management/p1.png",
         "images/portfolio/volunteer-management/p2.png"
